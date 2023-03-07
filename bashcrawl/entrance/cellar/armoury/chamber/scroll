@@ -1,0 +1,18 @@
+
+# You seem to have reached the end of this hall.
+# 
+# After checking out the things in this room, you may
+# need to turn back and try another path.
+#
+# Remember, to back track one directory, you type:
+#
+# cd ..
+#
+# You can also return to the entrance using an absolute path.
+#
+# If you are drawing a map of your progress,
+# you can always get the name of your working
+# directory with this command:
+# 
+# pwd
+

@@ -1,0 +1,15 @@
+
+# Illusions are strong here.
+# It is difficult to tell what is a doorway and what is an object.
+# However, the colors can give you a clue.
+#
+# Directories (the rooms of these catacombs) whill show up in blue.
+# 
+# Encounters (programs) will show up in green, red, or possibly a different color.
+#
+# If you don't see any colors when you run the `ls` command, try running
+# the following:
+# 
+# alias ls='ls -G' (Mac OS)
+# alias ls='ls --color' (Windows WSL)
+#
